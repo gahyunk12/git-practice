@@ -6,5 +6,5 @@ git push <name> <branch> --> 밑에서는 git push origin master라고 씀
 git push origin master 
 내 저장소의 변경 내역(commit)을 원격에 푸시한다. origin에 master를 푸시한다.
 
-git clone <url>
-저장소를 복제해 온다.
+git status
+현재 변경 사항 내역 + staging area 표시
