@@ -8,3 +8,6 @@ git push origin master
 
 git status
 현재 변경 사항 내역 + staging area 표시
+
+git log
+여태까지 변경 내역들 확인
